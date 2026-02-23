@@ -11,5 +11,7 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   - For the correlation analysis, examining time- or season-specific correlations, as well as relationships among additional variables, may provide further insight into potential drift patterns and underlying structure in the dataset.
 
 
-- Feedback giver #2
-  + item
+- Feedback giver - Hannah Shaw
+  + The data cleaning and organization is neat and well documented
+  + I'm wondering if you can adjust the y-axis on the boxplots for the benezene values to make the differences more obvious
+  + Everything else looks good
