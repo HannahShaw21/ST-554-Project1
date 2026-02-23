@@ -9,5 +9,7 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + I'm wondering if we should drop observations of a sensor until the final analysis phase. For example, in my EDA I replaced -200 with NaN, then did summary statistics on them. I get that if a sensor is offline for a long period of time,we may not want to use those in an analysis. However, if it's merely a glitch in the sensor for some small amount of time, is there an imputation strategy we could use?
 
 
-- Feedback giver #2
-  + item
+- Feedback giver - Hannah Shaw
+  + Looks good to me
+  + Not sure why the estimated b1 value does not come out positive, or if that really matters. IDK how to fix that
+  + Pardon the lack of eloquence; am very sleep deprived
